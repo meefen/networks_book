@@ -14,3 +14,7 @@ parts:
 - caption: 3. Learning in Networks
   chapters:
   - file: ch3-learning-in-networks
+- caption: 4. Network Science
+  chapters:
+  - file: ch4-network-science
+  - file: ch4-lab-read-data-1
