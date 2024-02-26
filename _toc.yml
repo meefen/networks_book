@@ -24,6 +24,7 @@ parts:
 - caption: 6. Collect and Manage Network Data
   chapters:
   - file: ch6-collect-manage-data
+  - file: ch6-understand-data-structures
   - file: ch6-network-data-handson
 - caption: Biblography
   chapters:
