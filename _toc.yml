@@ -32,6 +32,9 @@ parts:
 - caption: 8. Centrality and Centralization
   chapters:
   - file: ch8-centrality-positions
+- caption: 9. Components, Cliques, Communities
+  chapters:
+  - file: ch9-components
 - caption: Biblography
   chapters:
   - file: bibliography
