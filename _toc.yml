@@ -35,6 +35,9 @@ parts:
 - caption: 9. Components, Cliques, Communities
   chapters:
   - file: ch9-components
+- caption: 10. Ego Networks
+  chapters:
+  - file: ch10-ego-networks
 - caption: Biblography
   chapters:
   - file: bibliography
