@@ -38,6 +38,18 @@ parts:
 - caption: 10. Ego Networks
   chapters:
   - file: ch10-ego-networks
+- caption: 11. Cognitive and Semantic Networks
+  chapters:
+  - file: ch11-cognitive-semantic-networks
+- caption: 12. Network Dynamics and Temporality
+  chapters:
+  - file: ch12-network-dynamics
+- caption: 13. Multidimensional Networks
+  chapters:
+  - file: ch13-multidimensional
+- caption: 14. Ethics and Values in Network Analysis of Learning
+  chapters:
+  - file: ch14-ethics
 - caption: Biblography
   chapters:
   - file: bibliography
