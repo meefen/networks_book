@@ -8,48 +8,48 @@ parts:
   chapters:
   - file: ch1-intro
   - file: ch1-setup-colab
-- caption: 2. Networks in Learning Analytics
-  chapters:
-  - file: ch2-networks-la
-- caption: 3. Learning in Networks
-  chapters:
-  - file: ch3-learning-in-networks
-- caption: 4. Network Science
-  chapters:
-  - file: ch4-network-science
-  - file: ch4-lab-read-data-1
-- caption: 5. SNA Theory and Concepts
-  chapters:
-  - file: ch5-sna-intro
-- caption: 6. Collect and Manage Network Data
-  chapters:
-  - file: ch6-collect-manage-data
-  - file: ch6-understand-data-structures
-  - file: ch6-network-data-handson
-- caption: 7. Sociograms and Density
-  chapters:
-  - file: ch7-sociograms-density
-- caption: 8. Centrality and Centralization
-  chapters:
-  - file: ch8-centrality-positions
-- caption: 9. Components, Cliques, Communities
-  chapters:
-  - file: ch9-components
-- caption: 10. Ego Networks
-  chapters:
-  - file: ch10-ego-networks
-- caption: 11. Cognitive and Semantic Networks
-  chapters:
-  - file: ch11-cognitive-semantic-networks
-- caption: 12. Network Dynamics and Temporality
-  chapters:
-  - file: ch12-network-dynamics
-- caption: 13. Multidimensional Networks
-  chapters:
-  - file: ch13-multidimensional
-- caption: 14. Ethics and Values in Network Analysis of Learning
-  chapters:
-  - file: ch14-ethics
+# - caption: 2. Networks in Learning Analytics
+#   chapters:
+#   - file: ch2-networks-la
+# - caption: 3. Learning in Networks
+#   chapters:
+#   - file: ch3-learning-in-networks
+# - caption: 4. Network Science
+#   chapters:
+#   - file: ch4-network-science
+#   - file: ch4-lab-read-data-1
+# - caption: 5. SNA Theory and Concepts
+#   chapters:
+#   - file: ch5-sna-intro
+# - caption: 6. Collect and Manage Network Data
+#   chapters:
+#   - file: ch6-collect-manage-data
+#   - file: ch6-understand-data-structures
+#   - file: ch6-network-data-handson
+# - caption: 7. Sociograms and Density
+#   chapters:
+#   - file: ch7-sociograms-density
+# - caption: 8. Centrality and Centralization
+#   chapters:
+#   - file: ch8-centrality-positions
+# - caption: 9. Components, Cliques, Communities
+#   chapters:
+#   - file: ch9-components
+# - caption: 10. Ego Networks
+#   chapters:
+#   - file: ch10-ego-networks
+# - caption: 11. Cognitive and Semantic Networks
+#   chapters:
+#   - file: ch11-cognitive-semantic-networks
+# - caption: 12. Network Dynamics and Temporality
+#   chapters:
+#   - file: ch12-network-dynamics
+# - caption: 13. Multidimensional Networks
+#   chapters:
+#   - file: ch13-multidimensional
+# - caption: 14. Ethics and Values in Network Analysis of Learning
+#   chapters:
+#   - file: ch14-ethics
 - caption: Biblography
   chapters:
   - file: bibliography
