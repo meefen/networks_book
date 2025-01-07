@@ -4,13 +4,13 @@
 format: jb-book
 root: intro
 parts:
-- caption: 1. Getting Started
+- caption: 0. Getting Started
   chapters:
   - file: ch1-intro
   - file: ch1-setup-colab
-# - caption: 2. Networks in Learning Analytics
-#   chapters:
-#   - file: ch2-networks-la
+- caption: 1. Networks in Learning Analytics
+  chapters:
+  - file: ch2-networks-la
 # - caption: 3. Learning in Networks
 #   chapters:
 #   - file: ch3-learning-in-networks
