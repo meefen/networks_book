@@ -11,13 +11,13 @@ parts:
 - caption: 1. Networks in Learning Analytics
   chapters:
   - file: ch2-networks-la
-# - caption: 3. Learning in Networks
-#   chapters:
-#   - file: ch3-learning-in-networks
-# - caption: 4. Network Science
-#   chapters:
-#   - file: ch4-network-science
-#   - file: ch4-lab-read-data-1
+- caption: 2. Learning in Networks
+  chapters:
+  - file: ch3-learning-in-networks
+- caption: 3. Network Science
+  chapters:
+  - file: ch4-network-science
+  - file: ch4-lab-read-data-1
 # - caption: 5. SNA Theory and Concepts
 #   chapters:
 #   - file: ch5-sna-intro
